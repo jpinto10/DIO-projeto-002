@@ -3,6 +3,6 @@ Game-Basico-Genesis
 
 ### Os requisitos são:
 * Acompanhamento do projeto com a Professora Gabriela
-* Não foi cópia e cola, tentei fazer o código, a minha manera.
+* Não fazer cópia e cola, tente fazer sozinho.
 
 ## 🚀 próxima FASE 🚀
